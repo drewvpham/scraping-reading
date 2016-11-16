@@ -1,4 +1,5 @@
 # Scraping HTML with Nokogiri
+the site has been updated so this walkthrough needs updating
 
 ## Objectives
 
@@ -267,3 +268,5 @@ The main thing to understand, however, is that Nokogiri collects these objects i
 * [Video Review- Scraping and Object Orientation](https://www.youtube.com/watch?v=oXwdOdBUyCI) 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/scraping-reading' title='Scraping HTML with Nokogiri'>Scraping HTML with Nokogiri</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/scraping-reading'>Scraping</a> on Learn.co and start learning to code for free.</p>
